@@ -1,6 +1,6 @@
 {
-	"name": "astro-cactus",
-	"version": "2.2.1",
+	"name": "ewansmith",
+	"version": "1.0.0",
 	"private": false,
 	"scripts": {
 		"dev": "astro dev",

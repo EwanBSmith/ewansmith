@@ -16,5 +16,10 @@
 		"astro", // Enable .astro
 		"typescript", // Enable .ts
 		"typescriptreact"
-	]
+	],
+	"files.exclude": {
+		"node_modules/": true,
+		".astro": true,
+		".vscode": true
+	}
 }
